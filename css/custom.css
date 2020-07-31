@@ -1,0 +1,26 @@
+.banner{
+	width: 100%;
+}
+.main{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.card{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.ft{
+	text-align: center;
+	color: #FFF;
+	background: #000;
+	padding: 15px;
+}
+body{
+	background: url(../images/tv.jpg) fixed;
+	background-size: cover;
+}
+.ct:hover{
+	background: #FF0;
+
+}
